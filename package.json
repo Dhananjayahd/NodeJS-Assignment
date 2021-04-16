@@ -1,0 +1,16 @@
+{
+  "name": "node-sample",
+  "version": "1.0.0",
+  "description": "sample node project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "dhananjaya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
